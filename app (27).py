@@ -516,7 +516,7 @@ if st.sidebar.button("🔄 Reset Entire Game", use_container_width=True):
     st.rerun()
 
 # --- SCOREBOARD & FIELD DISPLAY ---
-st.title("🏈 Stats Gridiron: Classroom Football")
+st.title("🏈 Stats Turkey Bowl")
 
 off_idx = st.session_state.possession
 def_idx = 1 - off_idx
