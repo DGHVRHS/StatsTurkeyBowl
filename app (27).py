@@ -2,7 +2,7 @@ import streamlit as st
 import random
 import time
 
-st.set_page_config(page_title="Stats Gridiron: Classroom Football", layout="wide")
+st.set_page_config(page_title="Stats Turkey Bowl", layout="wide")
 
 # Question Bank organized by Play Tier (covering Stats HW #1 through HW #9)
 QUESTION_BANK = {
